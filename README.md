@@ -7,14 +7,12 @@ My fascination with molecular simulations stems from their ability to serve as a
 My research focuses on numerical algorithms, computational methods and theoretical foundations of these simulations, as well as their broader application to support research in other fields.
 I am also deeply committed to addressing the practical challenges of ensuring transparency and reproducibility in computational research.
 
-
 ## Research and publication records
 
 - [UGent Research Explorer](https://research.ugent.be/web/person/toon-verstraelen-0/en)
 - [UGent Biblio](https://biblio.ugent.be/person/F6DA9612-F0ED-11E1-A9DE-61C894A0A6B4)
 - [ORCID Profile](https://orcid.org/0000-0001-9288-5608)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=y0ZBOGoAAAAJ&hl=en)
-
 
 ## Teaching
 
@@ -31,3 +29,7 @@ Most of the course materials are hosted on a private GitHub Enterprise instance,
 - [Introductory OpenMM tutorial](https://github.com/molmod/openmm-tutorial-msbs) for "Molecular Simulatios of BioSystems"
 - [Charge distributions in copper nanostructures](https://github.com/molmod/chargedist) for "Electricity, Magnetism and Sensors"
 - [Tiny DFT](https://github.com/theochem/tinydft) and [Tiny FF](https://github.com/molmod/tinyff/) for "Computational Physics"
+
+## Other links
+
+- Experimental Hugo-powered blog: [Pseudo Regular](https://tovrstra.github.io/)
