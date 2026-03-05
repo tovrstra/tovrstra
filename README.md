@@ -16,7 +16,7 @@ I am also deeply committed to addressing the practical challenges of ensuring tr
 
 ## Teaching
 
-I (co)lecture the following courses at UGent:
+I (co)lecture the following courses at UGent (academic year 2025-2026):
 
 - [Python for Scientists](https://studiekiezer.ugent.be/2024/studiefiche/en/C004212) in the [Bachelor of Science in Physics and Astronomy](https://studiekiezer.ugent.be/2024/bachelor-of-science-in-physics-and-astronomy)
 - [Computational Physics](https://studiekiezer.ugent.be/2025/studiefiche/en/C004504) in the [Master of Science in Physics and Astronomy](https://studiekiezer.ugent.be/2025/master-of-science-in-physics-and-astronomy-CMPHYS-en)
